@@ -37,7 +37,7 @@
                 <a href="#" class="home-social-icon"><i class='bx bxl-github' ></i></a>
             </div>
             <div class="home-img">
-                <img src="oshsu.png" alt="image">
+                <img src="photo_2024-10-28_21-37-21.jpg" alt="image">
             </div>
         </section>
         <section class="about section" id="about">
