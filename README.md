@@ -9,7 +9,7 @@
     <header class="l-header">
         <nav class="nav bd-grid">
             <div>
-                <a href="#" class="nav-logo">Akbaraliev</a>
+                <a href="#" class="nav-logo">Tynybekova</a>
             </div>
             <div class="nav-menu" id="nav-menu">
                 <ul class="nav-list">
@@ -28,7 +28,7 @@
     <main class="l-main">
         <section class="home bd-grid" id="home">
             <div class="home-data">
-                <h1 class="home-title">Привет <br>Меня зовут<span class="home-title-color">Эрнис</span><br> Веб дизайнер</h1>
+                <h1 class="home-title">Привет <br>Меня зовут<span class="home-title-color">Asema</span><br> Веб дизайнер</h1>
                 <a href="#" class="button">Контакты</a>
             </div>
             <div class="home-social">
@@ -140,7 +140,7 @@
         </section>
     </main>
     <footer class="footer">
-        <p class="footer-title">Акбаралиев</p>
+        <p class="footer-title">Аsema</p>
         <div class="footer-social">
             <a href="#" class="footer-icon"><i class='bx bxl-facebook'></i></a>
             <a href="#" class="footer-icon"><i class='bx bxl-instagram' ></i></a>
